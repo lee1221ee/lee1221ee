@@ -39,3 +39,11 @@
   ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
   
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/lee1221ee">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lee1221ee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lee1221ee&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
