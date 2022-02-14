@@ -1,7 +1,6 @@
 # 👋 Hi, I am Wilson Lee
 
 <p align="center">
-<a href="https://www.google.com"><img src="https://img.shields.io/badge/-Douglas-333333?style=flat-square&logo=Linkedin&logoColor=0A66C2"/></a>
 <a href="https://twitter.com/lee1221ee"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat-square&logo=Twitter"/></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lee1221ee&label=Profile%20Views&color=135429&style=flat"/> </p>
