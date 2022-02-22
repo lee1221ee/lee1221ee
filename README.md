@@ -28,7 +28,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   
-### Enviroment, IDEs and Tools
+### Environment, IDEs and Tools
   ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu%20-333333?style=flat&logo=ubuntu)
