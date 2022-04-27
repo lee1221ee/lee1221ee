@@ -33,16 +33,23 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu%20-333333?style=flat&logo=ubuntu)
   
-## Technologies I'm interested to learn more 
+### Technologies I'm interested to learn more 
 
   ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
   
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/lee1221ee">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lee1221ee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lee1221ee&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+## 👨‍💻 &nbsp;LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/lee1221ee">
+    <img title="lee1221ee's LeetCode Stats" alt="lee1221ee's LeetCode Stats" src="https://leetcode.card.workers.dev/lee1221ee?theme=nord&font=baloo&width=498&border=0.5&cache=300" />
+  </a>
 </p>
